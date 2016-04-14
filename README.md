@@ -1,0 +1,1 @@
+Pet project to learn mongo (with Promise)

@@ -1,0 +1,17 @@
+{
+  "name": "learn-mongo",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app/index.js",
+  "scripts": {
+    "start": "node app/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcelo Adamatti",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.3.4",
+    "log4js": "^0.6.33",
+    "promised-mongo": "^1.2.0"
+  }
+}
